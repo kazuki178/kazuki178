@@ -1,7 +1,7 @@
 <h1 align="center">👋, Kazuki Yahashi</h1>
 <h3 align="center">Engineer</h3>
 
-- 🌱 学習 =>  **Security,Network,Programming,Management**
+- 🌱 学習 =>  **Security / Network / Programming / Management**
 
 - 📝 site =>  [kazyu.netlify.app](kazyu.netlify.app)
 
