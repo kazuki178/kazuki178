@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [kazyu.netlify.app](kazyu.netlify.app)
 
-- ⚡ Fun fact **応用情報技術者・基本情報技術者**
+- ⚡ certificate **応用情報技術者 / 基本情報技術者**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
