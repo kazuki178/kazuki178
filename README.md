@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kazuki Yahashi</h1>
+<h1 align="center">👋, Kazuki Yahashi</h1>
 <h3 align="center">Engineer</h3>
 
-- 🌱 I’m currently learning **Security,Network,Programming,情報処理安全確保支援士試験**
+- 🌱 学習=>  **Security,Network,Programming,Management**
 
 - 📝 I regularly write articles on [kazyu.netlify.app](kazyu.netlify.app)
 
