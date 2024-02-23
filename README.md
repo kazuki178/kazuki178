@@ -3,7 +3,7 @@
 
 - 🌱 学習 =>  **Security / Network / Programming / Management**
 
-- 📝 site =>  [kazyu.netlify.app](kazyu.netlify.app)
+- 📝 site =>  [kazyu.netlify.app](https://kazyu.netlify.app/)
 
 - ⚡ 資格 => **応用情報技術者 / 基本情報技術者**
 
